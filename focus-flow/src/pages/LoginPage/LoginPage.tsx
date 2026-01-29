@@ -67,7 +67,7 @@ function LoginPage() {
           aboutSplit,
           { color: '#8c5e9133', scale: 0.4 },
           {
-            duration: 2,
+            duration: 1,
             ease: 'power1.out',
             background: '#8c5e91',
             color: 'wheat',
